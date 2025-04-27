@@ -2,6 +2,7 @@
 A large open-source 3D printer.
 
 See the [LibrePrint XL User Guide](/LibrePrint_XL_User_Guide.pdf) for steps on getting started.
+
 See the v1.0.0 release on the right hand side for the full 3D model of the printer.
 
 
