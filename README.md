@@ -1,4 +1,7 @@
 # LibrePrintXL
+<p>
+<img alt="GitHub" src="https://img.shields.io/github/license/andrewschalk/LibrePrintXL"/>
+  </p>
 A large open-source 3D printer.
 
 See the [LibrePrint XL User Guide](/LibrePrint_XL_User_Guide.pdf) for steps on getting started.
